@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this research prototype, please cite the repository and its release."
+title: "WiFi-Radar-2D: Multi-node Wi-Fi CSI indoor localization research prototype"
+type: software
+authors:
+  - name: "Project contributors"
+repository-code: "https://github.com/<YOUR_GITHUB_USERNAME>/WiFi-Radar-2D"
+license: MIT
+version: 0.1.0
